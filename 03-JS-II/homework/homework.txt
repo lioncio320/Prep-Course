@@ -1,0 +1,29 @@
+"for":
+La funcion "for" es como una especie de funcion que se repite hasta que nosotro queramos para esto escribimos:
+
+for (let i=n; i<10, i++){
+//donde aqui va lo que queremos que se repita, la variable "i" es un indicador que le hemos dado el valor de "n",
+al escribir i<10 queremos que se repita esta funcion hasta que "i" deje de ser menor que "10", y "i++" se utiliza para que
+el indicador en cada vuelta digamos vaya aumentando de uno en uno.
+
+} 
+
+
+
+
+"&&", "||", "!":
+Estos tienen un significado en español "&&" es "y", "||" es "o", "!" es "no".
+
+"!":
+En primer lugar el no "!" cambia la veracidad de una sentencia "p", si "p" es "true" y le ponemos adelante el no "!p", 
+entonces ya no sera "true" sino "false", y viceversa si "p" es "false", "!p" es "true".
+
+"||":
+cuando decimos voy a casa de mi amigo "o" a la biblioteca, y si solo vamos a la casa del amigo y no vamos a la biblioteca,
+no estamos diciendo algo falso, porque hemos dicho "o", por lo tanto cuando tengamos dos sentencias "p" y "q",
+solo hace falta que una sea "true" para que "p || q" ("p" o "q") sea "true",
+
+"&&":
+pero cuando decimos voy a la casa de mi amigo "y" a la biblioteca, y solo vamos a la casa del amigo, entonces estamos
+diciendo algo falso porque no fuimos a la biblioteca, entonces teniendo dos sentencias "p" y "q", "p && q" son unicamente
+"true" si y solo si "p" es "true" y "q" tambien es "true". 
