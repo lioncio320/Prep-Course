@@ -1,0 +1,18 @@
+variable:
+podemos entender a una variable como si fuera una cajita en la que puedes guardar cosas, o bueno en nuestro caso guardar
+tipos de datos.
+
+strings:
+es un tipo de dato, que para simplificar empieza y termina normalmente con las comillas "", en el escribimos texto,
+un ejemplo de string es: "Hola Mundo."
+
+funciones "return":
+una funcion podemos entendarla como una especie de maquina en la que ingresamos un tipo de datos o varios, 
+y nos sale otra cosa que queramos con el argumento return.
+
+declaraciones "if":
+podemos ver a if como una un camino que puede tomar el programa si se cumplen ciertas condiciones.
+
+valores booleanos "true","false":
+true y false traducidos al español significan, verdadero y falso respectivamente, son de utilidad en 
+las declaraciones como if, ya que te dicen si se cumplen esas condiciones o no.
